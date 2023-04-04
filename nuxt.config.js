@@ -69,7 +69,7 @@ export default {
     transpile: [/^element-ui/],
   },
 
-  buildDir: 'dist',
+  buildDir: 'nuxt-dist',
 
   loading: {
     color: 'blue',
