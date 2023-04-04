@@ -69,6 +69,8 @@ export default {
     transpile: [/^element-ui/],
   },
 
+  buildDir: 'dist',
+
   loading: {
     color: 'blue',
     height: '4px'
