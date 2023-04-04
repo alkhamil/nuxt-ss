@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Projects\\\\sharing-session\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_07dedd82"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "C:\\\\Projects\\\\sharing-session\\\\pages\\\\product\\\\index.vue",
+    "chunkName": "pages/product/index",
+    "_name": "_71a9fb7e"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id",
+    "component": "C:\\\\Projects\\\\sharing-session\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id",
+    "_name": "_d332be2e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Projects\\\\sharing-session\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1bc86c04"
+  }
+]
